@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## About me
+Hello, I'm Sharon Lam! I was born and raised in Hong Kong. I'm an M.S. Computer Science student at UIUC. My interest lies in human-computer interaction and data visualization. Right now I'm building on a networking platform for people in academia under the guidance of Prof. Matthew Caesar and we really hope to help researchers, especially students, to expand their network and succeed in academia.
 
-You can use the [editor on GitHub](https://github.com/Miaomeow/miaomeow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+- M.S. in Computer Science, University of Illinois at Urbana-Champaign (Champaign, IL), 2021 - 2023 (expected).
+- BEng in Computer Science, The Hong Kong University of Science and Technology (Hong Kong), 2015 - 2020.
+  * Exchange student at RWTH Aachen University in Germany, Oct 2018 - Mar 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Work experience
+- Technology Analyst, Credit Suisse (Hong Kong) Ltd, Aug 2020 - May 2021.
+- Summer Technology Analyst, Credit Suisse (Hong Kong) Ltd, Jun 2019 - Aug 2019.
+- Placement Student at IT Infrastructure, Hong Kong Monetary Authority, Jul 2017 - Aug 2018.
 
-### Markdown
+### Publication
+- KFC: A Scalable Approximation Algorithm for k−center Fair Clustering (2020), https://papers.nips.cc/paper/2020/hash/a6d259bfbfa2062843ef543e21d7ec8e-Abstract.html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Miaomeow/miaomeow/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Teaching experience
+- CS105 Intro Computing: Non-Tech, University of Illinois at Urbana-Champaign, Fall 2021
+  * teaching non-engineering major students Python and Excel
